@@ -1,2 +1,2 @@
 # hello_world
-ceshi
+select * from zhou_temp a
